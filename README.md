@@ -1,1 +1,0 @@
-# Program-for-printing-speed-phyton-qt-
